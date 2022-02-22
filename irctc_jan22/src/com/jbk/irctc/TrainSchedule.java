@@ -8,5 +8,7 @@ public class TrainSchedule {
 		System.out.println("Get train schedule class...");
 		System.out.println("new changes added");
 		System.out.println("new changes added from git for demo");
+		
+		System.out.println("hello");
 	}
 }
